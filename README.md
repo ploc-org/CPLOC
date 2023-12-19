@@ -70,15 +70,15 @@
 ## 第五章 附则
 
 ### 第十一条 其他
-理事会创始会员包括：
+理事会创始会员：
 - [NASL](http://nasl.lcap.group)，数之帆
 - [KCL](https://kcl-lang.io/)
 - [HVML](https://www.hvml.org)
 - [狮偶](https://gitee.com/openblock/openblock)
 - [Calcit](https://calcit-lang.org)
-- [智锐](https://covscript.org.cn)
-- [Deeplang](https://github.com/deeplang-org/deeplang)
+- [CovScript](https://covscript.org.cn)
+- [DeepLang](https://github.com/deeplang-org/deeplang)
 - [洛书](https://gitee.com/chen-chaochen/lpk)
 - [凹语言](https://wa-lang.org)
 - [木兰重现](https://gitee.com/MulanRevive/mulan-rework)
-- [K](https://github.com/kulics-works/k)
+- [K语言](https://github.com/kulics-works/k)
