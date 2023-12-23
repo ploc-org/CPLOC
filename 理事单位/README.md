@@ -1,4 +1,4 @@
-# 理事会创始会员
+# 理事单位联系人 Gitee 账号
 
 - [NASL](http://nasl.lcap.group) - https://gitee.com/kylos
 - [KCL](https://kcl-lang.io/) - https://gitee.com/peefy
