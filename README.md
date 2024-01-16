@@ -80,7 +80,6 @@
 - [DeepLang](https://github.com/deeplang-org/deeplang)
 - [洛书](https://gitee.com/chen-chaochen/lpk)
 - [凹语言](https://wa-lang.org)
-- [木兰重现](https://gitee.com/MulanRevive/mulan-rework)
 - [K语言](https://github.com/kulics-works/k)
 - [凸语言](https://github.com/tu-lang/tu)
 - [Z语言](https://gitee.com/z-lang)
