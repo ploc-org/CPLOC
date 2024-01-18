@@ -77,7 +77,7 @@
 - [狮偶](https://gitee.com/openblock/openblock)
 - [Calcit](https://calcit-lang.org)
 - [CovScript](https://covscript.org.cn)
-- [DeepLang](https://github.com/deeplang-org/deeplang)
+- [Deeplang](https://github.com/deeplang-org/deeplang)
 - [洛书](https://gitee.com/chen-chaochen/lpk)
 - [凹语言](https://wa-lang.org)
 - [K语言](https://github.com/kulics-works/k)
