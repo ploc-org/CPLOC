@@ -71,7 +71,7 @@
 
 ### 第十一条 其他
 理事会创始会员：
-- [NASL](http://nasl.lcap.group)，数之帆
+- [NASL](https://nasl.codewave.163.com/)，网易数帆
 - [KCL](https://kcl-lang.io/)
 - [HVML](https://www.hvml.org)
 - [狮偶](https://gitee.com/openblock/openblock)
@@ -83,4 +83,3 @@
 - [K语言](https://github.com/kulics-works/k)
 - [凸语言](https://github.com/tu-lang/tu)
 - [Z语言](https://gitee.com/z-lang)
-- [Aya](https://www.aya-prover.org)
